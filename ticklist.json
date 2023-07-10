@@ -14,5 +14,13 @@
   "mzyd": {
     "uri": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/mzyd.png",
     "description": "the first test token"
+  },
+  "shfu": {
+    "uri": "https://raw.githubusercontent.com/shifudrc20/logoasserts/main/shfu.png",
+    "description": "Master shifu"
+  },
+  "sifu": {
+    "uri": "https://raw.githubusercontent.com/shifudrc20/logoasserts/main/sifu.png",
+    "description": "Master shifu 2.0"
   }
 }
